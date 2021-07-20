@@ -1,3 +1,4 @@
+Spring Boot Backend and ReactJS frontend.
 =====================================
 INSTRUCTIONS
 =====================================
