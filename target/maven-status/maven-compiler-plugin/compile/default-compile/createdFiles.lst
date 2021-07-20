@@ -1,0 +1,6 @@
+com\challenge\filestorage\FileStorageApplication.class
+com\challenge\filestorage\services\FileStorageService.class
+com\challenge\filestorage\cli\FileStorageCommand.class
+com\challenge\filestorage\controllers\FileStorageController.class
+com\challenge\filestorage\entities\FileStorageSingle.class
+com\challenge\filestorage\repositories\FileStorageRepository.class
