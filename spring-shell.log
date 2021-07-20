@@ -1,0 +1,42 @@
+1623179436994:help
+1623179454999:get-list-of-files
+1623179948340:help
+1623179953085:list-files
+1623179968918:delete-file 3
+1623179971097:delete-file 1
+1623181397941:help
+1623181442907:upload-file C:\\Users\\Keelan\\Desktop\\test.txt
+1623181456497:upload-file C:/Users/Keelan/Desktop/test.txt
+1623181467028:help
+1623181469196:list-files
+1623181540733:upload-file trash
+1623181549587:upload-file C:/Users/Keelan/Desktop/
+1623181950942:upload-file C:/Users/Keelan/Desktop/test.txt
+1623181957161:upload-file C:\\Users\\Keelan\\Desktop\\test.txt
+1623182027777:upload-file C:/Users/Keelan/Desktop/test.txt
+1623182031546:list-files
+1623182057307:upload-file C:/Users/Keelan/Desktop/KeelanCV.pdf
+1623182059356:list-files
+1623182158910:help
+1623182161603:list-files
+1623182169313:upload-file C:/Users/Keelan/Desktop/KeelanCV.pdf
+1623182171972:upload-file C:/Users/Keelan/Desktop/test.txt
+1623182176690:list-files
+1623182178010:spidjf
+1623182188764:delete-file 1
+1623182191337:list-files
+1623182902416:help
+1623353975431:upload-file C:\\Users\\Keelan\\Videos\\Debut\\KGS.avi
+1623353986089:upload-file C:/Users/Keelan/Videos/Debut/KGS.avi
+1623353990589:list-files
+1623357751010:help
+1623357771144:upload-file C:/Users/Keelan/Videos/Debut/KGS.avi
+1623358218811:help
+1623358221965:list-files
+1623436966051:help
+1623436999000:upload-file C:\\Users\\Keelan\\Videos\\Debut
+1623437005164:upload-file C:/Users/Keelan/Videos/Debut/KGS.avi
+1623437051071:upload-file C:/Users/Keelan/Pictures/Graham-SandsKeelan_40107299_MEng SE_HSC BSO_1516.mp4
+1623437064960:upload-file C:/Users/Keelan/Pictures/aa.mp4
+1623437071152:list-files
+1623438443999:help

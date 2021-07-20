@@ -1,0 +1,37 @@
+@import "../../styles/utils.module.scss";
+
+.wrapper {
+  padding-bottom: 10px;
+  .container {
+    border: 1px solid #444;
+
+    .table {
+      margin: 0 7px;
+      overflow-y: auto;
+
+      .titles {
+        display: flex;
+        .title {
+          flex: 0 1 32%;
+        }
+      }
+
+      .files {
+        padding-bottom: 10px;
+        display: flex;
+        .fileProperty {
+          flex: 0 1 32%;
+          @include ellipsis-common;
+        }
+        .removeIcon {
+          flex: 0 1 4%;
+          float: right;
+          cursor: pointer;
+        }
+      }
+    }
+    .noFiles {
+      padding-bottom: 10px;
+    }
+  }
+}

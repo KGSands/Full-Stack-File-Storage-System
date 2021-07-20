@@ -1,0 +1,19 @@
+{
+    "translation": {
+        "pages": {
+            "main_title": "Woven Planet Holdings Inc. Challenge"
+        },
+        "upload_files": {
+            "title": "Upload File",
+            "error": "Cannot upload file. Check file link and ensure file size <10MB."
+        },
+        "files_table": {
+            "title": "List of Files",
+            "id": "Id",
+            "file_name": "File Name",
+            "file_size": "File Size (KB)",
+            "no_files": "No files to display."
+        },
+        "submit": "Submit"
+    }
+}
